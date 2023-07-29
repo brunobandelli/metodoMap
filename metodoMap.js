@@ -11,7 +11,7 @@ O novo array resultante terá o mesmo tamanho do array original. */
 /*
 O map é um metodo que precisa que você passe no máximo 3 parametros (elemento, indice, array),
 sendo que o elemento é obrigatório. E o índice e o array são opcionais funcionando de forma respectiva.
-E alem disso é capaz de retornar um novo array, como vantagem em relação ao forEach.
+E alem disso é capaz de retornar um novo array com o mesmo tamanho do array original, como vantagem em relação ao forEach.
 */
 
 /*
